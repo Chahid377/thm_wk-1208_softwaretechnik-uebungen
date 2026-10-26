@@ -1,7 +1,7 @@
 # Steckbrief <kürzel>
 
 ## Studiengang und Semester
-hh
+hewa jaber afg
 
 ## Meine bisherige Erfahrung mit Softwareentwicklung
 uii
