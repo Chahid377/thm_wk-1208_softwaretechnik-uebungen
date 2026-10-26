@@ -7,5 +7,4 @@ hh
 uii
 
 ## Das erwarte ich von der Veranstaltung
-
-…
+ vvghg
